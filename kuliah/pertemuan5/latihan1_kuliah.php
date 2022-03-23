@@ -33,6 +33,7 @@ echo "<hr>";
 for($i = 0; $i < count($hari); $i++) {
     echo $hari[$i];
     echo "<br>";
+    
 }
 echo "<hr>";
 

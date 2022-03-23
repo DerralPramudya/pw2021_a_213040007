@@ -1,8 +1,4 @@
 <?php
-//studi kasus 
-
-
-
 // Studi Kasus
 
 $mahasiswa = [
